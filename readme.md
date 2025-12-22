@@ -51,6 +51,8 @@
 1. **Клонируйте или скачайте проект** 
 ```bash
 git clone https://github.com/amakedoni/Laboratory_work_3.git
+cd Laboratory_work_3
+cd src
 ```
 2. **Запустите:**
 ```bash
