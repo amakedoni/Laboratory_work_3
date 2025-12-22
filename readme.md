@@ -143,13 +143,13 @@ benchmark_sorts()	Сравнение алгоритмов сортировки
 
 ## Тестирование
 
-### Запуск всех тестов
+### Запуск всех тестов (из папки src)
 
 ```bash
 python -m unittest discover tests
 ```
 
-### Запуск отдельных тестов
+### Запуск отдельных тестов (из папки src)
 
 ```bash
 # Тесты математических функций
@@ -162,7 +162,7 @@ python -m unittest tests.test_sorting
 python -m unittest tests.test_utils
 ```
 
-### Запуск тестов с детализацией
+### Запуск тестов с детализацией (из папки src)
 
 ```bash
 python -m unittest discover tests -v
